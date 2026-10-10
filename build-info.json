@@ -1,6 +1,6 @@
 {
   "siteId": "serp.ai",
-  "sourceBranch": "agent/serp-ai-badge-submit-listing",
+  "sourceBranch": "main",
   "sourceRepository": "serpcompany/json-directory-template",
-  "sourceSha": "5547ad7094e9fd21c0ee430e680ba16d627e29d2"
+  "sourceSha": "8ad85f9e3ee63b34c1e5bc5785243cdbe283f096"
 }
